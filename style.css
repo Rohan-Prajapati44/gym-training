@@ -148,7 +148,7 @@
     .header-img {
       min-height: 100vh;
       width: 100%;
-      background-image: url('images/gym_images/Colourful 1000 Piece Puzzle – Perfect for Fitness Lovers.jpeg');
+      background-image: url('gym_images/Colourful 1000 Piece Puzzle – Perfect for Fitness Lovers.jpeg');
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
@@ -206,4 +206,5 @@
       .navbar-brand h3 {
         font-size: 20px;
       }
+
     }
